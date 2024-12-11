@@ -2,7 +2,6 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16867182)
 # 0-ml-team-projects
 
-https://colab.research.google.com/drive/1DV8bXpvaXHUUpeSZJ5uuQYm7PlxMMEW3?usp=drive_link
 
 IPYNB notebooks for ML Team Projects
 
