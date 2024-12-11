@@ -3,3 +3,5 @@
 [https://colab.research.google.com/drive/1DV8bXpvaXHUUpeSZJ5uuQYm7PlxMMEW3?usp=drive_link](https://colab.research.google.com/drive/1cDeunVs6gmqs8sskZcjRdD01TpsxBQSf?usp=drive_link)
 
 데이터 파일 다운 후 직접 사용하실 수 있습니다.
+
+# K 파라미터 값과 적절한 K값 찾기 위한 Elbow Method 와 Silhouette Score 파일입니다.
